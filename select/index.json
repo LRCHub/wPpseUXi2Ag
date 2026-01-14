@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "水たまりロンド",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-01-14T03:41:41.317584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水たまりロンド",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/01_水たまりロンド_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水たまりロンド",
+      "artist": "Gohgo",
+      "has_synced": true,
+      "path": "select/02_水たまりロンド_Gohgo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水たまりロンド",
+      "artist": "ヒメヒナ",
+      "has_synced": true,
+      "path": "select/03_水たまりロンド_ヒメヒナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水たまりロンド",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_水たまりロンド_HIMEHINA.txt"
+    }
+  ]
+}
